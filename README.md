@@ -1,2 +1,2 @@
 # CRCT
-Anonymously counts customers based on wifi enabled devices.
+Anonymously stores customers based on wifi enabled devices.
